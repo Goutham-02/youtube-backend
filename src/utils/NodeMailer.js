@@ -37,8 +37,8 @@ export const sendMail = async (receiverEmail, subject, text) => {
 //     port: 465,
 //     secure: true,
 //     auth: {
-//         user: "goutham02.ml@gmail.com",
-//         pass: "rmmxggkdggttdora",
+//         user: "",
+//         pass: "",
 //     },
 // });
 
